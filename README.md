@@ -1,4 +1,4 @@
-# Diabetes Classification - Statistical Learning Project
+# Diabetes Classification using Statistical Learning 
 
 This project presents a statistical learning approach to predicting diabetes, using a dataset of Pima Indian women. The main goal is to develop and evaluate classification models capable of identifying diabetic individuals and understanding which medical and demographic features contribute most to diabetes risk.
 
@@ -38,5 +38,6 @@ This project presents a statistical learning approach to predicting diabetes, us
 ## 🔗 Resources
 
 - Kaggle dataset: [https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+
 
 
